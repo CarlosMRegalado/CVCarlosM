@@ -1,13 +1,10 @@
 import React from 'react'
+import MainScreen from '../frontend/mainscreen/components'
 
-const index = () => {
-    return (
-        <div>
-           Hola desde index
-
-        </div>
-    )
+const Main = () => {
+  return (
+    <MainScreen/>
+  )
 }
 
-export default index
-
+export default Main

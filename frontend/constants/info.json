@@ -1,0 +1,60 @@
+{
+    "names": "Carlos Mauricio ",
+    "lastnames": "Regalado Sandoval",
+    "age": "27",
+    "carrear": "Industrial Engineering",
+    "address": "Laguna de la Estrella #440, Carlos de la Madrid",
+    "phone": "3121239691",
+    "mail": "carlosmaresa@gmail.com",
+    "presentation": "blablalblal",
+    "skills": [
+        {
+            "id": "skill",
+            "list": [
+                "Initiative",
+                "Teamwork",
+                "Leadership",
+                "Creativity",
+                "Active listening",
+                "Communication",
+                "Computer skills",
+                "Interpersonal skills",
+                "Management skills",
+                "Time management",
+                "Problem-solving"
+            ]
+        },
+        {
+            "id": "core capabilities",
+            "list": [
+                "Design inventory systems",
+                "Establish norms and standards of production",
+                "Conduct market research and analysis",
+                "Participate in the development of industrial safety programs",
+                "Be a facilitator of Agile projects",
+                "Scrum Master"
+            ]
+        },
+        {
+            "id": "languages",
+            "list": [
+                "Español (native)",
+                "Ingles (basic)"
+            ]
+        }
+    ],
+    "experience":[
+        {
+            "id":"mesero",
+            "description": "chaaklsjdaslkdjasldkjasdklasjdaskljdaslkdkjjkhhjkhkjhjhkjhjkkjhhh"
+        },
+        {
+            "id":"mostrador",
+            "description": "chaaklsjdaslkdjasldkjasdklasjdaskljdaslkdkjjkhhjkhkjhjhkjhjkkjhhh"
+        },
+        {
+            "id":"mostrador2",
+            "description": "chaaklsjdaslkdjasldkjasdklasjdaskljdaslkdkjjkhhjkhkjhjhkjhjkkjhhh"
+        }
+    ]
+}
